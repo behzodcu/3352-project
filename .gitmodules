@@ -1,0 +1,3 @@
+[submodule "network/network/bipartiteSBM"]
+	path = network/network/bipartiteSBM
+	url = https://github.com/junipertcy/bipartiteSBM.git
