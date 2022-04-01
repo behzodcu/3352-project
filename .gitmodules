@@ -1,3 +1,12 @@
 [submodule "network/network/bipartiteSBM"]
 	path = network/network/bipartiteSBM
 	url = https://github.com/junipertcy/bipartiteSBM.git
+[submodule "network/bipartiteSBM-MCMC"]
+	path = network/bipartiteSBM-MCMC
+	url = https://github.com/junipertcy/bipartiteSBM-MCMC.git
+[submodule "network/bipartiteSBM-KL"]
+	path = network/bipartiteSBM-KL
+	url = https://github.com/junipertcy/bipartiteSBM-KL.git
+[submodule "network/clusim"]
+	path = network/clusim
+	url = https://github.com/ajgates42/clusim.git
