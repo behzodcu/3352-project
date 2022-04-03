@@ -1,1 +1,1 @@
-# 3352_project
+# Evaluating Community Detection Methods for the Human Symtom-Disease Network
