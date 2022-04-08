@@ -1,6 +1,7 @@
 # Evaluating Community Detection Methods for the Human Symtom-Disease Network
 
 Resources:
+
 D.B. Larremore, A. Clauset and A.Z. Jacobs, "Efficiently inferring community structure in bipartite networks." Phys. Rev. E 90, 012805 (2014).
 
 Community Detection in Bipartite Networks with Stochastic Blockmodels, Tzu-Chi Yen and Daniel B. Larremore, Physical Review E 102, 032309, (2020).
