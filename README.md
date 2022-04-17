@@ -1,4 +1,4 @@
-# Evaluating Community Detection Methods for the Human Symtom-Disease Network
+# Evaluating Community Detection Methods for the Human Symtoms-Disease Network
 
 Resources:
 
